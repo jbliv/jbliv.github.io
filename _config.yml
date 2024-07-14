@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: John Lyle
 # Description of the Site
-description: An engineering portfolio and blog documenting my learning
+description: An engineering portfolio # and blog documenting my learning
 # URL of Image of the Site
 site-image: /assets/images/meta.jpg
 # Keywords of the Site
