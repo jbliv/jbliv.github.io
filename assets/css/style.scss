@@ -60,6 +60,13 @@ a.navbar-item.is-active {
         opacity: 0.25;
         content: "";
     }
+
+    @media (max-width: 768px) {
+        #hero::before {
+            background-attachment: scroll;
+            background-size: contain;
+        }
+    }
 }
 .title {
     margin: auto 0.75rem!important;
