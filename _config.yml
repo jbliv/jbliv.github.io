@@ -16,6 +16,8 @@ site-image: /assets/images/meta.jpg
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
 favicon-url: 
+# Site Logo
+site-logo: /assets/images/logo.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: /assets/images/maincampus_hero.jpg #https://www.utexas.edu/sites/default/files/styles/utexas_hero_photo_image/public/hero-photos/maincampus_hero.jpg?itok=ZkKrhFki
@@ -60,7 +62,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "blog/:title"
+permalink: "projects/:title"
 
 # Compress
 compress_html:

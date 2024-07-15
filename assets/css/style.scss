@@ -244,7 +244,7 @@ a.navbar-item.is-active {
 
             figure {
                 border: 1.5px solid white;
-                border-radius: 50rem;
+                border-radius: 60rem;
                 justify-content: center;
                 margin: auto;
                 transition: all 0.25s ease;
@@ -283,6 +283,7 @@ a.navbar-item.is-active {
         -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
         -moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
         box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+        border-radius: 100px;
         transform: scale(0.95);
         transition: all 0.5s ease;
         margin-bottom: 0.5rem !important;
