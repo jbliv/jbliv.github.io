@@ -6,8 +6,8 @@
 * Flesh out contact section or combine with about me
 
 ## To Do List Posts
-* RMD Project
 * Battlebots SXSW
+* Anti-Gyro Controller
 * Handheld Controller
 * Test stand for bowden cable actuator
 * Symphony parts
