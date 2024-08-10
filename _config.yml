@@ -11,7 +11,7 @@ title: John Lyle
 # Description of the Site
 description: An engineering portfolio documenting my learning
 # URL of Image of the Site
-site-image: /assets/images/meta.jpg
+site-image: /assets/images/headshot.jpeg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -49,7 +49,7 @@ author-image: /assets/images/headshot.png
 # 60 Words About the Author
 author-about: I am a fourth-year mechanical engineering student at UT Austin, pursuing a master’s in robotics and controls. I have experience in electronics, software, and mechanical design, and love the interdisciplinary nature of robotics. I am passionate about developing innovative R&D solutions to improve human lives and mitigate risks.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/jbliv
+author-url: https://www.linkedin.com/in/johnlyleiv
 
 # SASS
 sass:
