@@ -18,7 +18,7 @@ tags:
 
 **Problem Statement:** Create a mechanism that converts simple rotary motion to complex motion using lessons learned in kinematic analysis and design from ME 350R: Robot Mechanism Design.
 
-**Final Accomplishments:** Our group decided to create a toy basketball shooter. We first used kinematic analysis to design a mechanism that mimicked Steph Curry's shooting motion. Next we iterated through multiple versions of the mechanism to refine the shooting motion and minimize play in the joints. Finally we created the support structure for the mechanism and implemented the electronics and controls for the mechanism.
+**Project Timeline:** Our group decided to create a toy basketball shooter. We first used kinematic analysis to design a mechanism that mimicked Steph Curry's shooting motion. Next we iterated through multiple versions of the mechanism to refine the shooting motion and minimize play in the joints. Finally we created the support structure for the mechanism and implemented the electronics and controls for the mechanism.
 
 **Individual Contributions:** I served as the project lead for this project and managed the overall completion. My contributions were the electronics and controls system, kinematic and projectile motion analysis, and design of electrical component mounts.
 
@@ -64,7 +64,7 @@ tags:
 
 <img src="/assets/images/rmdProject/electronics.jpg" width="480" height="260" style="max-width: 100%; height: auto;" alt="Electronics">
 
-**Component Design:** The following pictures depict components that I designed for this project. The majority of them are mounting pieces for various electrical components. In addition to desiging these I also manufactured these parts through 3D printing and laser cutting.
+**Component Design:** The following pictures depict components that I designed for this project. The majority of them are mounting pieces for various electrical components. In addition to designing these I also manufactured these parts through 3D printing and laser cutting.
 
 *Motor and Motor Driver Mount*
 
@@ -73,6 +73,20 @@ tags:
 *Button Cover*
 
 <img src="/assets/images/rmdProject/buttonCover.png" width="480" height="260" style="max-width: 100%; height: auto;" alt="Button Cover">
+
+---
+# Key Takeaways and Skills Utilized
+
+This project was a great opportunity to apply my learnings in mechanism design and kinematic analysis from the course. It taught how to use preliminary calculations to form a prototype and then iterate to achieve desired motion profiles.
+
+**Skills Used**
+* Python programming
+* Arduino programming
+* Circuit Design
+* Solidworks
+* Tolerancing Designed Parts
+* 3D Printing
+* Laser Cutting
 
 ---
 # Additional Information
