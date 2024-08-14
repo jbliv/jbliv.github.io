@@ -6,14 +6,8 @@
 * Flesh out contact section or combine with about me
 
 ## To Do List Posts
-* Battlebots SXSW
 * Anti-Gyro Controller
-* Handheld Controller
-* Test stand for bowden cable actuator
-* Symphony parts
 * Auto scheduler
 * Machine Elements Car
 * Gas sampler
 * Teleoperation Demo?
-* Safety curtain and button box
-* Bad battlebot?
