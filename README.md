@@ -7,7 +7,5 @@
 
 ## To Do List Posts
 * Anti-Gyro Controller
-* Auto scheduler
-* Machine Elements Car
 * Gas sampler
 * Teleoperation Demo?

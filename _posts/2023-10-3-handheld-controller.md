@@ -26,25 +26,25 @@ tags:
 
 *Resistor Ladder Circuit*
 
-<img src="/assets/images/controller/circuit.png" width="480" height="260" style="max-width: 100%; height: auto;" alt="Shot Paths">
+<img src="/assets/images/controller/circuit.png" width="480" height="260" style="max-width: 100%; height: auto;" alt="Circuit">
 
 **Prototyping:** Before switching to an off the shelf component I iterated through many designs to attempt to achieve an ergonomic solution as shown in the photos below. Ultimately given the time constraints of the project I had to pivot since this iterative process while showing promise would have taken too long. The Logitech controller only had digital inputs so I decided to use 8 digital inputs sent across 2 analog signals.
 
 *Version 1*
 
-<img src="/assets/images/controller/rev1.jpg" width="400" height="200" style="max-width: 100%; height: auto;" alt="Test Fits">
+<img src="/assets/images/controller/rev1.jpg" width="400" height="200" style="max-width: 100%; height: auto;" alt="Test Version 1">
 
 *Version 2*
 
-<img src="/assets/images/controller/rev2.jpg" width="400" height="200" style="max-width: 100%; height: auto;" alt="Test Fits">
+<img src="/assets/images/controller/rev2.jpg" width="400" height="200" style="max-width: 100%; height: auto;" alt="Test Version 2">
 
 *Version 3*
 
-<img src="/assets/images/controller/rev3.jpg" width="400" height="200" style="max-width: 100%; height: auto;" alt="Test Fits">
+<img src="/assets/images/controller/rev3.jpg" width="400" height="200" style="max-width: 100%; height: auto;" alt="Test Version 3">
 
 **Implementation and Calibration:** Once I implemented the aforementioned circuit in the Logitech controller I setup an Arduino to collect data as I pressed each combination of buttons. This data was then sent through a Python algorithm I created to automatically determine what range of readings to associate with each combination of presses. This Python algorithm then output a few lines that could be copy and pasted into a config file on the device the controller was integrated with.
 
-<img src="/assets/images/controller/logitech.jpg" width="480" height="260" style="max-width: 100%; height: auto;" alt="Test Shots">
+<img src="/assets/images/controller/logitech.jpg" width="480" height="260" style="max-width: 100%; height: auto;" alt="COTS Controller">
 
 **ROS Compatibility:** Since ultimately this controller needed to interface with ROS I created a node to decode the button presses and communicate the corresponding controls. In addition to this I also setup a numpad to be used in ROS to communicate controls as well.
 
