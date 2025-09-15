@@ -45,19 +45,19 @@ tags:
 ---
 # Personal Contributions
 
-**Electronics:** I was in charge of the electronics subassembly for this battlebot. In order to begin my work I first worked with the team to determine desired top speed and acceleration of the bot and the weapon. Using these numbers I figured out torque and rpm requirements for motors. Once motors were selected I was able to determine how large of a battery to select. When selecting disconnects and wires one of my main focuses was to make sure we could easily swap out all of the components quickly without soldering anything. This was crucial for competition day in case we ran into any issues with the electronics. 
+**Electronics:** I was in charge of the electronics subassembly for this battlebot. In order to begin my work, I first worked with the team to determine desired top speed and acceleration of the bot and the weapon. Using these numbers, I figured out torque and rpm requirements for motors. Once motors were selected, I was able to determine how large of a battery to select. When selecting disconnects and wires, one of my main focuses was to make sure we could easily swap out all of the components quickly without soldering anything. This was crucial for competition day in case we ran into any issues with the electronics. 
 
 *Electronics Diagram*
 
 <img src="/assets/images/sxsw/electronics.png" width="480" height="260" style="max-width: 100%; height: auto;" alt="Electronics">
 
-**Controls:** Another thing I was tasked with for this project was selecting a transmitter and receiver for the bot and working with the driver to to customize the controls to his likings. One of the key things that I implemented was a switch for if we got flipped upside down. This switch modified all of the controls to allow our driver to continue driving as if the bot were still upright. I also implemented safety shutoffs incase the receiver ever lost signal all motors would lose power as well.
+**Controls:** Another thing I was tasked with for this project was selecting a transmitter and receiver for the bot and working with the driver to customize the controls to his liking. One of the key things that I implemented was a switch for if we got flipped upside down. This switch modified all of the controls to allow our driver to continue driving as if the bot were still upright. I also implemented safety shutoffs in case the receiver ever lost signal; all motors would lose power as well.
 
 *Upside Down Controls*
 
 <img src="/assets/images/sxsw/upsideDown.gif" width="480" height="260" style="max-width: 100%; height: auto;" alt="Upside Down Driving">
 
-**Repairs and Diagnosing Competition Day Problems:** In the days leading up to the competition one of my main focuses was thinking through any issues we might run into and setting up our repair process between matches. Since we would only have 30 minutes between matches it was important to be able to quickly diagnose any electronics issues we had while simultaneously replacing any of the other components. In order to most efficiently do this we used our spare parts to assemble a second bot so that we could quickly swap over the receiver and have another operational bot.
+**Repairs and Diagnosing Competition Day Problems:** In the days leading up to the competition, one of my main focuses was thinking through any issues we might run into and setting up our repair process between matches. Since we would only have 30 minutes between matches, it was important to be able to quickly diagnose any electronics issues we had while simultaneously replacing any of the other components. In order to most efficiently do this, we used our spare parts to assemble a second bot so that we could quickly swap over the receiver and have another operational bot.
 
 *Post Competition Picture*
 
@@ -66,7 +66,7 @@ tags:
 ---
 # Key Takeaways and Skills Utilized
 
-This project was the some of the most fun I have had as an engineer. Working with some of my best friends to design and build an incredibly successful bot in only 5 weeks was incredibly difficult. It gave me the chance to apply so many things I had learned about in classes and also learn so much more.
+This project was some of the most fun I have had as an engineer. Working with some of my best friends to design and build an incredibly successful bot in only 5 weeks was incredibly challenging. It gave me the chance to apply so many things I had learned about in classes and also learn so much more.
 
 **Skills Used**
 * Dynamics Analysis
