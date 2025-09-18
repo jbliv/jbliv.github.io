@@ -58,7 +58,7 @@ tags:
 
 <img src="/assets/images/rmdProject/projectileMotion.png" width="480" height="260" style="max-width: 100%; height: auto;" alt="Projectile Motion">
 
-**Electronics and Controls:** The controller for this project was an Arduino Uno which controlled a 12V DC motor through an L298N motor driver. I setup the whole electrical system and wrote the code that operated the mechanism. The buttons were used to cycle through various PWM signals and run times for each shot distance. These values were determined using the aforementioned projectile motion analysis and fine tuned using experimental data.
+**Electronics and Controls:** The controller for this project was an Arduino Uno which controlled a 12V DC motor through an L298N motor driver. I set up the whole electrical system and wrote the code that operated the mechanism. The buttons were used to cycle through various PWM signals and run times for each shot distance. These values were determined using the aforementioned projectile motion analysis and fine-tuned using experimental data.
 
 *Electronics Diagram*
 
@@ -77,7 +77,7 @@ tags:
 ---
 # Key Takeaways and Skills Utilized
 
-This project was a great opportunity to apply my learnings in mechanism design and kinematic analysis from the course. It taught how to use preliminary calculations to form a prototype and then iterate to achieve desired motion profiles.
+This project was a great opportunity to apply my learnings in mechanism design and kinematic analysis from the course. It taught me how to use preliminary calculations to form a prototype and then iterate to achieve desired motion profiles.
 
 **Skills Used**
 * Python programming
