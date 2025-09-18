@@ -47,7 +47,7 @@ author-name: John Lyle
 # URL for the Image of the Author
 author-image: /assets/images/headshot.png
 # 60 Words About the Author
-author-about: I am a fourth-year mechanical engineering student at UT Austin. I have experience in electronics, software, and mechanical design, and love the interdisciplinary nature of robotics. I am passionate about developing innovative R&D solutions to improve human lives and mitigate risks.
+author-about: "I am a mechanical engineering master's student from UT Austin with experience in electronics, software, and mechanical design. I love the interdisciplinary nature of robotics and am passionate about developing innovative R&D solutions to improve human lives and mitigate risks."
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://www.linkedin.com/in/johnlyleiv
 
@@ -99,3 +99,4 @@ exclude:
   - vendor/ruby/
 
 repository: jbliv/jbliv.github.io
+

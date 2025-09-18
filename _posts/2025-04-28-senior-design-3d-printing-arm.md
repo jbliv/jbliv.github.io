@@ -8,7 +8,7 @@ tags:
 - C++
 - Python
 - Motion Planning
-- Softare Architecture
+- Software Architecture
 ---
 # Summary
 
@@ -28,7 +28,7 @@ This page will primarily cover my contributions to the project including the ove
 ---
 # Software Architecture
 
-This project was based in ROS2 using a mix of both Python and C++. I decided to use ROS2 for the project to allow the use of commonly used robotics packages such as MoveIt2 and RViz2. The primary node for the system acted as an action server for the user interface. Slicing and printing requests from the user would come in to the action server and it would then communicate with the other nodes to complete the printing process. The control of the end effector was managed within a separate node that acted as a service for the main control node to use as a client. The slicing path generator acted as an action server to feed printing paths to main control node throughout the printing process. The final node was a MoveIt move group that managed the cartesian motion planning and execution.
+This project was based in ROS2 using a mix of both Python and C++. I decided to use ROS2 for the project to allow the use of commonly used robotics packages such as MoveIt2 and RViz2. The primary node for the system acted as an action server for the user interface. Slicing and printing requests from the user would come in to the action server, and it would then communicate with the other nodes to complete the printing process. The control of the end effector was managed within a separate node that acted as a service for the main control node to use as a client. The slicing path generator acted as an action server to feed printing paths to the main control node throughout the printing process. The final node was a MoveIt move group that managed the Cartesian motion planning and execution.
 
 *Software Flowchart*
 
@@ -37,7 +37,7 @@ This project was based in ROS2 using a mix of both Python and C++. I decided to 
 ---
 # Motion Planning Environment
 
-The motion planning for this project utilizes MoveIt2 to perform cartesian motion paths along the desired printing trajectory. To account for the custom end effector used I created a URDF of our modified UR5e arm setup. This was in turn used to create a custom UR control package and a custom MoveIt configuration. 
+The motion planning for this project utilizes MoveIt2 to perform Cartesian motion paths along the desired printing trajectory. To account for the custom end effector used, I created a URDF of our modified UR5e arm setup. This was in turn used to create a custom UR control package and a custom MoveIt configuration. 
 
 *Custom URDF*
 
@@ -76,4 +76,4 @@ While this project was not finished during my time working on it which was limit
 
 [Final Presentation Slides](/assets/KFinalReport.pdf)
 
-For information regarding this project, usage of the code, or questions please reach to myself by email.
+For information regarding this project, usage of the code, or questions, please reach out to me by email.
